@@ -1,0 +1,10 @@
+    "name": “Paimon Token”,
+    "website": "https://paimontoken.com”,
+    "description": "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
+    "explorer": "https://bscscan.com/token/0x7d8699eb2a3f328a179a25CF2253a69c1906009C",
+    "type": "BEP20",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7d8699eb2a3f328a179a25CF2253a69c1906009C"
+}
